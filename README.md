@@ -1,7 +1,6 @@
 # IEEE-
 Creating a `README.md` file is essential for guiding users on how to set up, run, and interact with your AI-powered career counseling application. Below is a sample `README.md` that includes installation instructions, usage details, and other relevant information.
 
-```markdown
 # AI-Powered Career Counseling Application
 
 This application serves as a virtual career counselor, helping users explore and understand their career options through an AI-powered aptitude assessment and personalized guidance.
