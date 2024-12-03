@@ -1,7 +1,5 @@
-# IEEE-
-Creating a `README.md` file is essential for guiding users on how to set up, run, and interact with your AI-powered career counseling application. Below is a sample `README.md` that includes installation instructions, usage details, and other relevant information.
-
-# AI-Powered Career Counseling Application
+# IEEE IndiCon 2024
+## AI-Powered Career Counseling Application
 
 This application serves as a virtual career counselor, helping users explore and understand their career options through an AI-powered aptitude assessment and personalized guidance.
 
@@ -21,7 +19,7 @@ This application serves as a virtual career counselor, helping users explore and
 - Uvicorn
 - LangChain
 - Ollama LLM
-- Chart.js (for frontend visualization)
+- Node.js and npm (for frontend)
 
 ## Installation
 
@@ -37,13 +35,28 @@ This application serves as a virtual career counselor, helping users explore and
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. **Install required packages**:
+3. **Install required Python packages**:
    ```bash
    pip install fastapi uvicorn langchain langchain_ollama
    ```
 
-4. **Install any additional frontend dependencies** (if applicable):
-   - Ensure you have Node.js installed for frontend libraries like Chart.js.
+4. **Install Node.js and npm**:
+   - Follow the instructions from the [Node.js website](https://nodejs.org/en/download/) to download and install Node.js, which includes npm.
+
+5. **Navigate to the frontend directory** (if applicable):
+   ```bash
+   cd frontend  # Change this if your frontend is in a different directory
+   ```
+
+6. **Install frontend dependencies**:
+   ```bash
+   npm install
+   ```
+
+7. **Run the frontend development server**:
+   ```bash
+   npm run dev
+   ```
 
 ## Running the Application
 
@@ -58,6 +71,9 @@ This application serves as a virtual career counselor, helping users explore and
 
 3. **API Documentation**:
    You can access the automatically generated API documentation at `http://127.0.0.1:8000/docs`.
+
+4. **Frontend Access**:
+   Access your frontend application (if applicable) at the URL specified by your `npm run dev` command output (usually `http://localhost:3000`).
 
 ## Usage
 
@@ -76,6 +92,12 @@ This application serves as a virtual career counselor, helping users explore and
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For any inquiries or support, please contact [your.email@example.com].
+
+```
