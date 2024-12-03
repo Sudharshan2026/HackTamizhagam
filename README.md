@@ -92,12 +92,6 @@ This application serves as a virtual career counselor, helping users explore and
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or support, please contact [your.email@example.com].
-
-```
+For any inquiries or support, please contact [bshath0206@gmail.com].
