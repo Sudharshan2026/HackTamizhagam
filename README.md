@@ -57,6 +57,9 @@ This application serves as a virtual career counselor, helping users explore and
    ```bash
    npm run dev
    ```
+4. **Install ollama**:
+   - Follow the instructions from the [ollama website](https://ollama.com/) to download and install ollama.
+     
 8. **Pull the ollama modal**:
    ```bash
    ollama run llama3
