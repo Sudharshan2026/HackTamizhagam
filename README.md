@@ -66,7 +66,7 @@ This application serves as a virtual career counselor, helping users explore and
 
 1. **Start the FastAPI server**:
    ```bash
-   uvicorn main:app --reload
+   python run main.py
    ```
    Here, `main` refers to the Python file (e.g., `main.py`) where your FastAPI app is defined.
 
