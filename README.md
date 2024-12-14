@@ -57,6 +57,10 @@ This application serves as a virtual career counselor, helping users explore and
    ```bash
    npm run dev
    ```
+8. **Pull the ollama modal**:
+   ```bash
+   ollama run llama3
+   ```
 
 ## Running the Application
 
