@@ -82,6 +82,9 @@ This application serves as a virtual career counselor, helping users explore and
 4. **Frontend Access**:
    Access your frontend application (if applicable) at the URL specified by your `npm run dev` command output (usually `http://localhost:3000`).
 
+## Demo Video
+ You can access this the video: [Gdrive](https://drive.google.com/file/d/1XLtQPfwA1PRlZAEbJlWCkycQXnwQsQci/view?usp=sharing)
+
 ## Usage
 
 1. **Aptitude Assessment**:
