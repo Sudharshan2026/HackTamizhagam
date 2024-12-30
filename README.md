@@ -1,4 +1,4 @@
-# Hack Tamizhagam
+# K! Hacks 2.0
 ## AI-Powered Career Counseling Application
 
 This application serves as a virtual career counselor, helping users explore and understand their career options through an AI-powered aptitude assessment and personalized guidance.
